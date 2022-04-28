@@ -1,0 +1,23 @@
+#include <iostream>
+ 
+using namespace std;
+ 
+int main()
+{
+ 
+    // int, long long, char, float and double
+    int number;
+    long long numberl;
+    char letter;
+    float numberf;
+    double numberd;
+    cin>>number>>numberl>>letter>>numberf>>numberd;
+ 
+    cout<<number<<endl;
+    cout<<numberl<<endl;
+    cout<<letter<<endl;
+    cout<<numberf<<endl;
+    cout<<numberd<<endl;
+ 
+    return 0;
+}
