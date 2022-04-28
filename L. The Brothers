@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main(){
+    string name1,name2,last1,last2;
+    cin>>name1>>last1>>endl;
+    cin>>name2>>last2>>endl;
+
+    if(last1 == last2)
+      cout<<"ARE Brothers";
+     else
+        cout<<"Not";
+
+
+    return 0;
+}
