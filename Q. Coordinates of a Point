@@ -22,7 +22,7 @@ int main()
     {
         cout<<"Q1"<<endl;
     }
-    else if(num1>0 && num2>0)
+    else if(num1<0 && num2<0)
     {
         cout<<"Q3"<<endl;
     }
